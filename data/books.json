@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Cien Años de Soledad",
+    "description": "Una novela de Gabriel García Márquez",
+    "publishedDate": "1967-05-30",
+    "author": "Gabriel García Márquez"
+  },
+  {
+    "id": 2,
+    "title": "Tres Años de Soledad",
+    "description": "Una novela de Gabriel García Márquez",
+    "publishedDate": "1967-05-30",
+    "author": "Gabriel García Márquez"
+  },
+  {
+    "id": 3,
+    "title": "Dos Años de Soledad",
+    "description": "Una novela de Gabriel García Márquez",
+    "publishedDate": "1967-05-30",
+    "author": "Gabriel García Márquez"
+  },
+  {
+    "id": 5,
+    "title": "Ocho Años de Soledad",
+    "description": "Una novela de Gabriel García Márquez",
+    "publishedDate": "1967-05-30",
+    "author": "Gabriel García Márquez"
+  }
+]
